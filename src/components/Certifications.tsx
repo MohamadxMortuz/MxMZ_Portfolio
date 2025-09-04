@@ -10,7 +10,7 @@ const Certifications: React.FC<CertificationsProps> = ({ darkMode }) => {
     {
       title: "Full Stack Development Using MERN Stack",
       issuer: "CipherSchools",
-      date: "2022",
+      date: "2024",
       link: "https://www.cipherschools.com/certificate/preview?id=66a76d5ed15c5abc1ea65eea",
       image: "/images/MERN.png"
     },
