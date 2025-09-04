@@ -12,35 +12,35 @@ const Certifications: React.FC<CertificationsProps> = ({ darkMode }) => {
       issuer: "CipherSchools",
       date: "2022",
       link: "https://www.cipherschools.com/certificate/preview?id=66a76d5ed15c5abc1ea65eea",
-      image: "/src/images/MERN.png"
+      image: "/public/images/MERN.png"
     },
     {
       title: "Frontend",
       issuer: "Coursera",
       date: "2024",
       link: "https://www.coursera.org/account/accomplishments/verify/9V2QU8Z95P93",
-      image: "/src/images/Frontend.png"
+      image: "/public/images/Frontend.png"
     },
     {
       title: "Server-side JavaScript with Node.js",
       issuer: "Coursera",
       date: "2024",
       link: "https://www.coursera.org/account/accomplishments/verify/8FKKPK2URD64",
-      image: "/src/images/NodeJS.png"
+      image: "/public/images/NodeJS.png"
     },
     {
       title: "Python (Basic)",
       issuer: "HackerRank",
       date: "2023",
       link: "https://www.hackerrank.com/certificates/7be683722e29",
-      image: "/src/images/Python.png"
+      image: "/public/images/Python.png"
     },
     {
       title: "NPTEL Certification",
       issuer: "NPTEL",
       date: "2025",
       link: "https://drive.google.com/file/d/1HXeYy0ZzHKuFKXo55rU8D2GBk7E3Z72T/view",
-      image: "/src/images/NPTEL.png"
+      image: "/public/images/NPTEL.png"
     }
   ];
 
