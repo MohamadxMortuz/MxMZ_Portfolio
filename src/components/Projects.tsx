@@ -13,7 +13,7 @@ const Projects: React.FC<ProjectsProps> = ({ darkMode }) => {
       technologies: ["PHP", "MySQL", "HTML","CSS", "JavaScript"],
       repoLink: "https://github.com/MohamadxMortuz/PHP_Project",
       liveLink: "",
-      image: "/public/images/Picture1.png"
+      image: "/images/Picture1.png"
     },
     {
       title: "Notes App",
@@ -21,7 +21,7 @@ const Projects: React.FC<ProjectsProps> = ({ darkMode }) => {
       technologies: [ "MongoDB","Express", "React.js", "Node.js"],
       repoLink: "https://github.com/MohamadxMortuz/NotesAppMain",
       liveLink: "",
-      image: "/public/images/NotesAppMZ.png"
+      image: "/images/NotesAppMZ.png"
     },
     {
       title: "Medicare-AI",
@@ -29,7 +29,7 @@ const Projects: React.FC<ProjectsProps> = ({ darkMode }) => {
      technologies: ["Node.js","MongoDB", "JavaScript","ReactJs"],
       repoLink: "https://github.com/MohamadxMortuz/Project-CA3-INT-222",
       liveLink: "",
-      image: "/public/images/MediCare.jpg"
+      image: "/images/MediCare.jpg"
     }
   ];
 

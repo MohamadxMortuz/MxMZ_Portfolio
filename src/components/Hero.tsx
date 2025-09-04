@@ -141,7 +141,7 @@ const Hero: React.FC<HeroProps> = ({ darkMode }) => {
             } shadow-xl`}>
               <div className="w-full h-full bg-gray-400 flex items-center justify-center">
                 <img 
-                src="/public/images/IMG_0045.JPG" 
+                src="/images/IMG_0045.JPG" 
                 alt="Mohamad Mortuz Profile" 
                 className="w-full h-full object-cover"
               />
