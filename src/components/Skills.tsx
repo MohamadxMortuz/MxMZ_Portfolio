@@ -19,9 +19,9 @@ const Skills: React.FC<SkillsProps> = ({ darkMode }) => {
       skills: [
         { name: "HTML, CSS", level: 85 },
         { name: "ReactJS", level: 80 },
-        { name: "ExpressJS", level: 80 },
-        { name: "NodeJS", level: 80 },
-        { name: "Bootstrap", level: 80 }
+        { name: "ExpressJS", level: 70 },
+        { name: "NodeJS", level: 75 },
+        { name: "Bootstrap", level: 70 }
       ]
     },
     {
